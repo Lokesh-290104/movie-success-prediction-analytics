@@ -1,0 +1,3 @@
+budget,revenue,popularity,runtime,vote_average,title,genres
+1000000,5000000,10,120,7.0,Test Movie 1,"[{'id': 18, 'name': 'Drama'}]"
+0,100000,5,90,6.0,Test Movie 2,[]
