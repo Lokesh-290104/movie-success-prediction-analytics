@@ -23,7 +23,7 @@ An interactive Streamlit dashboard that analyzes and predicts the success of mov
 
 ## 🧰 Tech Stack
 
-- **Python** 🐍
+- **Python** 
 - **Pandas**, **NumPy**
 - **Seaborn**, **Matplotlib**
 - **Scikit-learn**
@@ -62,10 +62,10 @@ streamlit run MovieIQ.py
 Make sure the project includes a `movies.csv` file with the following columns:<br>
 ` budget, revenue, popularity, runtime, vote_average, title, genres`
 <br>
-## 👨‍💻 Author<br>
-### Naman Vora<br>
-#### Final Year CSE Student | Aspiring Data Analyst<br>
-📫 [LinkedIn](www.linkedin.com/in/namanvora21) • [GitHub](https://github.com/nv2105)
+## 👨‍💻 Author <br>
+### Lokesh Maheshwari <br>
+#### Final Year IT Student | Aspiring Data Analyst<br>
+📫 [LinkedIn](https://www.linkedin.com/in/lokesh-maheshwari-8a4b83278/) • [GitHub](https://github.com/Lokesh-290104)
 
 ## 📄 License
 This project is open source and available under the [MIT License.](https://mit-license.org/) 
